@@ -64,15 +64,62 @@ var index_config_default = {
     urls: [{ address: "https://danmuapi-ten-iota.vercel.app", name: "默认服务器" }],
     autoPush: false
   },
-  t4: {
-    list: []
-  },
-  cms: {
-    list: [
-      // {"name": "非凡资源", "address": "http://ffzy.tv/api.php/provide/vod/from/ffm3u8/at/json/"},
-      // {"name": "麻豆视频", "address": "https://19q.cc/api.php/provide/vod"}
-    ]
-  },
+ t4: {list: [
+    {name: "✈️关注TG频道@stymei",
+      address: "http://zhangqun1818.serv00.net:6628/?spider=独播库"},
+    {name: "👖裤佬丨瓜子丨影视",
+      address: "https://learnpython.ggff.net/gzysStymei"},
+    {name: "👖裤佬丨荐片丨APP",
+      address: "https://newtv.ggff.net/jianpian?token=P69Phb_y"},
+    {name: "👖裤佬丨甜圈丨短剧",
+      address: "https://learnpython.ggff.net/tqdjStymei"},
+    {name: "👖裤佬丨凤凰丨FM",
+      address: "http://zhangqun1818.serv00.net:6628/?spider=凤凰fm"},
+    {name: "👖裤佬丨采集丨聚合",
+      address: "http://zhangqun1818.serv00.net/cj/cjjh.php"},
+    {name: "👖裤佬丨JS丨聚合",
+      address: "http://zhangqun1818.serv00.net/js.php"},
+    {name: "👖裤佬丨PY丨聚合",
+      address: "http://zhangqun1818.serv00.net/py.php"},
+    {name: "👖裤佬丨PHP丨聚合",
+      address: "http://zhangqun1818.serv00.net/php.php"},
+    {name: "👖🔞裤佬丨中国丨大秀",
+      address: "https://learnpython.ggff.net/zgdxStymei"},
+    {name: "👖🔞裤佬丨美国丨大秀",
+      address: "https://learnpython.ggff.net/cam4"},
+    {name: "👖🔞裤佬丨俄国丨大秀",
+      address: "https://learnpython.ggff.net/elsdxStymei"},
+    {name: "👖🔞裤佬丨51丨吃瓜",
+      address: "https://learnpython.ggff.net/wycgStymei"},
+    {name: "👖🔞裤佬丨91丨吃瓜",
+      address: "https://learnpython.ggff.net/jycgStymei"},
+    {name: "👖🔞裤佬丨黑料丨吃瓜",
+      address: "https://learnpython.ggff.net/HLBDY"},
+    {name: "👖🔞裤佬丨139丨听书",
+      address: "http://zhangqun1818.serv00.net:5052/?sp=139fm多分类"},
+    {name: "👖🔞裤佬丨uaa丨听书",
+      address: "http://zhangqun1818.serv00.net:5052/?sp=uaa有声"},
+    {name: "👖🔞裤佬丨TPO丨爬虫",
+      address: "https://learnpython.ggff.net/ThePorn"},
+    {name: "👖🔞裤佬丨EPO丨爬虫",
+      address: "http://zhangqun1818.serv00.net:5052/?sp=epo"},
+    {name: "👖🔞裤佬丨推特丨爬虫",
+      address: "http://zhangqun1818.serv00.net:5052/?sp=推特"},
+    {name: "👖🔞裤佬丨酒曲丨爬虫",
+      address: "http://zhangqun1818.serv00.net:5052/?sp=九个区"},
+    {name: "👖🔞裤佬丨传媒丨爬虫",
+      address: "https://learnpython.ggff.net/XHSM"}
+]},
+  cms: {list: [
+{name: "👖🔞裤佬丨麻花丨采集",
+address: "https://19q.cc/api.php/provide/vod"},
+{name: "👖🔞裤佬丨杏吧丨采集",
+address: "https://xingba111.com/api.php/provide/vod/?ac=list"},
+{name: "👖🔞裤佬丨奶香丨采集",
+address: "https://naixxzy.com/api.php/provide/vod"},
+{name: "👖🔞裤佬丨幸源丨采集",
+address: "https://xzybb1.com/api.php/provide/vod"}
+]},
   alist: [
     {
       name: "🐉神族九帝",
