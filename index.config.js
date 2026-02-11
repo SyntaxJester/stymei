@@ -71,8 +71,6 @@ var index_config_default = {
     autoPush: true
   },
  t4: {list: [
-    {name: "🔞今天你打飞机了吗？",
-      address: "https://19q.cc/api.php/provide/vod"},
     {name: "✈️关注TG频道@stymei",
       address: "http://zhangqun1818.serv00.net:6628/?spider=独播库"},
     {name: "👖裤佬丨电视丨直播",
@@ -127,10 +125,10 @@ address: "https://jszyapi.com/api.php/provide/vod"},
 address: "http://by.bfzyapi.com/api.php/provide/vod"},
 {name: "👖裤佬丨iQiYi丨采集",
 address: "https://iqiyizyapi.com/api.php/provide/vod"},
-{name: "👖裤佬丨量子丨采集",
-address: "https://cj.lziapi.com/api.php/provide/vod"},
-{name: "👖裤佬丨如意丨采集",
-address: "http://cj.rycjapi.com/api.php/provide/vod"},
+{name: "👖裤佬丨无水印丨采集",
+address: "https://api.wsyzy.net/api.php/provide/vod"},
+{name: "👖裤佬丨爬虫丨采集",
+address: "https://dy.7772888.xyz/api.php/tvbox"},
 {name: "👖裤佬丨茅台丨采集",
 address: "https://caiji.maotaizy.cc/api.php/provide/vod"}
 ]},
