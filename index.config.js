@@ -73,12 +73,10 @@ var index_config_default = {
  t4: {list: [
     {name: "✈️关注TG频道@stymei",
       address: "http://zhangqun1818.serv00.net:6628/?spider=独播库"},
+    {name: "👖裤佬丨斗鱼丨直播",
+      address: "https://catbox.n13.club/ai/斗鱼直播.php"},
     {name: "👖裤佬丨电视丨直播",
       address: "http://zhangqun1818.serv00.net/zh/2242.php"},
-    {name: "👖裤佬丨瓜子丨影视",
-      address: "https://catbox.n13.club/ai/瓜子影视.php"},
-    {name: "👖裤佬丨苹果丨影视",
-      address: "http://zhangqun1818.serv00.net:6628/?spider=apple"},
     {name: "👖裤佬丨小鸭丨影视",
       address: "http://zhangqun1818.serv00.net:5052/?sp=小鸭子看看"},
     {name: "👖裤佬丨爱瓜丨影视",
@@ -99,10 +97,10 @@ var index_config_default = {
       address: "http://zhangqun1818.serv00.net:5052/?sp=哇哇"},
     {name: "👖裤佬丨麻雀丨影视",
       address: "http://zhangqun1818.serv00.net:5052/?sp=麻雀视频"},
-    {name: "👖裤佬丨努努丨影视",
-      address: "http://zhangqun1818.serv00.net:5052/?sp=努努影院"},
-    {name: "👖裤佬丨红果丨短剧",
-      address: "https://catbox.n13.club/ai/红果短剧.php"},
+    {name: "👖裤佬丨爬虫丨影视",
+      address: "https://dy.7772888.xyz/api.php/tvbox"},
+    {name: "👖裤佬丨艾旦丨影视",
+      address: "https://lovedan.net/api.php/provide/vod"},
     {name: "👖裤佬丨七猫丨短剧",
       address: "http://zhangqun1818.serv00.net:6628/?spider=七猫短剧"},
     {name: "👖裤佬丨西饭丨短剧",
@@ -119,18 +117,10 @@ var index_config_default = {
       address: "http://zhangqun1818.serv00.net:6628/?spider=兔小贝"}
 ]},
   cms: {list: [
-{name: "👖裤佬丨极速丨采集",
-address: "https://jszyapi.com/api.php/provide/vod"},
 {name: "👖裤佬丨暴风丨采集",
 address: "http://by.bfzyapi.com/api.php/provide/vod"},
 {name: "👖裤佬丨iQiYi丨采集",
-address: "https://iqiyizyapi.com/api.php/provide/vod"},
-{name: "👖裤佬丨无水印丨采集",
-address: "https://api.wsyzy.net/api.php/provide/vod"},
-{name: "👖裤佬丨爬虫丨采集",
-address: "https://dy.7772888.xyz/api.php/tvbox"},
-{name: "👖裤佬丨茅台丨采集",
-address: "https://caiji.maotaizy.cc/api.php/provide/vod"}
+address: "https://iqiyizyapi.com/api.php/provide/vod"}
 ]},
   alist: [
     {
