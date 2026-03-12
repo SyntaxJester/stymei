@@ -74,7 +74,7 @@ var index_config_default = {
     {name: "✈️关注TG频道@stymei",
       address: "https://catbox.n13.club/ai/飞流影视.php"},
     {name: "👖裤佬丨TV丨测试",
-      address: "https://live.jsnzkpg.workers.dev/live?url=https%3A%2F%2Fraw.githubusercontent.com%2FJsnzkpg%2FJsnzkpg%2FJsnzkpg%2FJsnzkpg1.m3u&token=jsnzkpg"},
+      address: "https://t4.jsnzkpg.workers.dev/live?url=https%3A%2F%2Fraw.githubusercontent.com%2FJsnzkpg%2FJsnzkpg%2FJsnzkpg%2FJsnzkpg1.m3u&token=jsnzkpg"},
     {name: "👖裤佬丨斗鱼丨直播",
       address: "https://catbox.n13.club/ai/斗鱼直播.php"},
     {name: "👖裤佬丨电视丨直播",
