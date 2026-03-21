@@ -73,7 +73,7 @@ var index_config_default = {
  t4: {list: [
     {name: "✈️关注TG频道@stymei",
       address: "http://zhangqun1818.serv00.net:6628/?spider=独播库"},
-    {name: "📺裤佬丨TV丨直播",
+    {name: "📺裤佬丨IPTV丨电视直播",
       address: "https://t4.jsnzkpg.uk"},
     {name: "👖裤佬丨网盘丨4K免扫码",
       address: "https://catbox.n13.club/18/影探影视.php"},
